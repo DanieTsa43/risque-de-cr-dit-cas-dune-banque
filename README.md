@@ -6,4 +6,4 @@ Cette vidéo illustre le fonctionnement du système de risque de crédit bancair
 
  [Cliquer pour voir la vidéo](https://drive.google.com/file/d/1fkZ07tMiK-wN75z8DFGbZyz1sFSjBHlL/view?usp=sharing)
 
-La video etant lourde, pour la partager on est passé par la création d'un lien drive qui est ci-dessus
+La video etant lourde, pour la partager on est passé par la création d'un lien drive qui est ci-dessus.
